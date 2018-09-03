@@ -14,9 +14,9 @@
     "git.enableSmartCommit": true,
     // html
     "html.format.indentInnerHtml": true,
-    // live server plugin
-    "liveServer.settings.donotShowInfoMsg": true,
     // workbench
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "One Dark Pro"
+    "workbench.colorTheme": "One Dark Pro",
+    // don't send data to MS
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
 }
